@@ -46,7 +46,7 @@ Clone o repositório para sua máquina local:
 
 bash
 
-git clone https://github.com/seu-usuario/saque-cedulas-api.git
+git clone https://github.com/Anaarjo/TesteMoradaAPI.git
 
 **Passo 2: Instalar dependências**
 Dentro do diretório do projeto, instale as dependências usando o pip:
