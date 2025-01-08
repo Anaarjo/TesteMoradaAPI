@@ -44,16 +44,13 @@ Postman ou cURL: Ferramentas utilizadas para testar a API.
 **Passo 1: Clone o repositório**
 Clone o repositório para sua máquina local:
 
-bash
-
-git clone https://github.com/Anaarjo/TesteMoradaAPI.git
+bash git clone https://github.com/Anaarjo/TesteMoradaAPI.git
 
 **Passo 2: Instalar dependências**
-Dentro do diretório do projeto, instale as dependências usando o pip:
+Instale as dependências usando o pip:
+bash pip install Flask
 
-bash cd saque-cedulas-api
-pip install -r requirements.txt
-No arquivo requirements.txt, você encontrará as dependências necessárias para rodar o projeto, incluindo o Flask.
+
 
 **Passo 3: Executar o servidor**
 Execute o servidor Flask para rodar a API:
